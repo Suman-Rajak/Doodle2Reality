@@ -1,1 +1,2 @@
+*.data filter=lfs diff=lfs merge=lfs -text
 training_checkpoints_landscape/** filter=lfs diff=lfs merge=lfs -text
